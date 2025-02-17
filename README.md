@@ -29,36 +29,6 @@ The dataset consists of **174,982** records with **23** features related to demo
 - **📌 Streamlit** 🎨
 - **📌 Matplotlib & Seaborn** 📈
 
----
-
-## 🏗️ Installation
-Clone the repository and install dependencies:
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/hypertension_prediction.git
-cd hypertension_prediction
-
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # For MacOS/Linux
-venv\Scripts\activate  # For Windows
-
-# Install required packages
-pip install -r requirements.txt
-```
-
----
-
-## ⚙️ Usage
-Run the **Streamlit** app:
-```bash
-streamlit run app.py
-```
-
-📌 Open your browser and go to: **`http://localhost:8501`**
-
----
-
 ## 🏆 Model Training
 1. **Preprocessing**:
    - Handling missing values 🔍
