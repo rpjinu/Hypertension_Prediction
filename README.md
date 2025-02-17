@@ -50,33 +50,6 @@ The dataset consists of **174,982** records with **23** features related to demo
 | `/predict` | `POST` | Predicts hypertension risk based on input features |
 | `/train` | `GET` | Retrains the model with new data |
 
-### 🔹 Example API Call (Using cURL)
-```bash
-curl -X POST "http://localhost:8501/predict" -H "Content-Type: application/json" -d '{
-    "Age": 45,
-    "BMI": 27.8,
-    "Cholesterol": 200,
-    "Systolic_BP": 130,
-    "Diastolic_BP": 85,
-    "Smoking_Status": "Never",
-    "Alcohol_Intake": 10.5,
-    "Physical_Activity_Level": "Moderate",
-    "Family_History": "Yes",
-    "Diabetes": "No",
-    "Stress_Level": 3,
-    "Salt_Intake": 2.5,
-    "Sleep_Duration": 7,
-    "Heart_Rate": 72,
-    "LDL": 120,
-    "HDL": 60,
-    "Triglycerides": 150,
-    "Glucose": 110,
-    "Gender": "Male",
-    "Education_Level": "Secondary",
-    "Employment_Status": "Employed"
-}'
-```
----
 
 ## 📸 Screenshots
 ### 🔹 **Home Page** 🏠
