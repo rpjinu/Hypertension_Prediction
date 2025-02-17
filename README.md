@@ -56,6 +56,6 @@ The dataset consists of **174,982** records with **23** features related to demo
 ![Home Page]<img src="https://github.com/rpjinu/Hypertension_Prediction/blob/main/deploy_image%20(2).png">
 
 ### 🔹 **Prediction Page** 🩺
-![Prediction Page](screenshots/predict.png)
+![Prediction Page]<img src="https://github.com/rpjinu/Hypertension_Prediction/blob/main/Predict_image.png">
 
 
