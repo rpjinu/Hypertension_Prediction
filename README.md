@@ -1,7 +1,7 @@
 # Hypertension_Prediction
 🩺 Hypertension_Prediction - A Streamlit API for predicting hypertension risk using machine learning. 🚀🔬
 
-<img src="">
+<img src="https://github.com/rpjinu/Hypertension_Prediction/blob/main/project_image.png">
 
 # 🩺 Hypertension Prediction API 🚀
 
